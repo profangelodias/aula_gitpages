@@ -43,3 +43,9 @@ a {
 a:hover {
     text-decoration: underline;
 }
+
+.instagram-reels {
+    display: flex;
+    justify-content: center; /* Centraliza horizontalmente */
+    margin: 20px 0; /* Espaço acima e abaixo do Reels */
+}
